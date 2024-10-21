@@ -24,4 +24,4 @@
    query : select * from table_name;
 
 7. to drop a database
-   query : drop database_name;
+   query : drop database database_name;
